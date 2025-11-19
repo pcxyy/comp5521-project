@@ -1,0 +1,29 @@
+{
+  "name": "COMP5521 Collectible #1",
+  "description": "A unique digital collectible from the COMP5521 NFT Marketplace. This NFT represents a special achievement in blockchain technology.",
+  "image": "https://upload.wikimedia.org/wikipedia/zh-yue/thumb/5/52/PolyU.svg/250px-PolyU.svg.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Course",
+      "value": "COMP5521"
+    },
+    {
+      "trait_type": "Semester",
+      "value": "Fall 2025"
+    },
+    {
+      "trait_type": "Level",
+      "value": 100
+    },
+    {
+      "trait_type": "Category",
+      "value": "Digital Art"
+    }
+  ],
+  "external_url": "https://www.polyu.edu.hk/comp/",
+  "background_color": "FFFFFF"
+}
