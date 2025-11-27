@@ -1,0 +1,29 @@
+{
+"name": "Graduation Bear",
+"description": "This is a graduation bear. Buying this will ensure your child's successful graduation and everything will be fine.",
+"image": "https://www.polyu.edu.hk/cpa/-/media/department/cpa/content/souvenir/corporate-and-premium-gifts/polyu-teddy-bear-plush---graduation-bear/30cm-graduation-bear_content01.jpg",
+"attributes": [
+{
+"trait_type": "Rarity",
+"value": "Legendary"
+},
+{
+"trait_type": "Course",
+"value": "COMP5521"
+},
+{
+"trait_type": "Semester",
+"value": "Fall 2025"
+},
+{
+"trait_type": "Level",
+"value": 100
+},
+{
+"trait_type": "Category",
+"value": "Digital Art"
+}
+],
+"external_url": "https://www.polyu.edu.hk/comp/",
+"background_color": "FFFFFF"
+}
