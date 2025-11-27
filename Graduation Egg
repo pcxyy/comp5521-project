@@ -1,0 +1,29 @@
+{
+"name": "Graduation Egg",
+"description": "This is a doctoral graduate egg. With this, one acquires a doctoral degree.",
+"image": "https://shoplineimg.com/5e2b4ce31f6b310046dd6f41/67e3b77e8cb78d000fac20cb/2960x.webp?source_format=jpg",
+"attributes": [
+{
+"trait_type": "Rarity",
+"value": "Legendary"
+},
+{
+"trait_type": "Course",
+"value": "COMP5521"
+},
+{
+"trait_type": "Semester",
+"value": "Fall 2025"
+},
+{
+"trait_type": "Level",
+"value": 100
+},
+{
+"trait_type": "Category",
+"value": "Digital Art"
+}
+],
+"external_url": "https://www.polyu.edu.hk/comp/",
+"background_color": "FFFFFF"
+}
