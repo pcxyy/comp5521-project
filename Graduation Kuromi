@@ -1,0 +1,29 @@
+{
+"name": "Graduation Kuromi",
+"description": "This koulibli can bring good luck.",
+"image": "https://www.lalagifts.hk/uploads/images/medium/graduation_sanrio2.jpg",
+"attributes": [
+{
+"trait_type": "Rarity",
+"value": "Legendary"
+},
+{
+"trait_type": "Course",
+"value": "COMP5521"
+},
+{
+"trait_type": "Semester",
+"value": "Fall 2025"
+},
+{
+"trait_type": "Level",
+"value": 100
+},
+{
+"trait_type": "Category",
+"value": "Digital Art"
+}
+],
+"external_url": "https://www.polyu.edu.hk/comp/",
+"background_color": "FFFFFF"
+}
